@@ -1,0 +1,45 @@
+h1 {
+    font-size: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  
+  img {
+    height: 40px;
+  }
+  
+  .btn-submit {
+    background-color: #151515;
+    color: white;
+    cursor: pointer;
+  }
+
+  .trello{
+    width: 100%;
+    height: 100%;
+  
+    
+  }
+  
+
+  .form-group{
+    width: 100%;
+    height: 5%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0px;
+  }
+
+  .col-form-label{
+    margin-left: 10px;
+    color: white;
+  }
+
+  .form{
+    width: 50%;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
